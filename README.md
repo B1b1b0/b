@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://b1b1b0.github.io/b/
+- Leaflet Map https://b1b1b0.github.io/zabytki/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14iQdozh8v40cVbbaWKE1TCS6lNitV9T9aAQgHVSSgps/edit?usp=sharing
 
 ## Create Your Own
